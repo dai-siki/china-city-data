@@ -17,7 +17,7 @@ npm install china-city-data
     A: [
         {
             "id": "152900", //城市编码
-            "name": "\u963f\u62c9\u5584\u76df"
+            "name": "阿拉善盟"
         }
         // ……
     ],
@@ -29,7 +29,7 @@ npm install china-city-data
     hot: [
         {
             "id": "110100",
-            "name": "\u5317\u4eac"
+            "name": "北京"
         }
     ]
 }
