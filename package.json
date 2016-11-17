@@ -1,0 +1,28 @@
+{
+  "name": "china-city-data",
+  "version": "1.0.0",
+  "description": "中国城市数据（首字母排序，json格式）",
+  "main": "china-city-data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai-siki/china-city-data.git"
+  },
+  "keywords": [
+    "cities",
+    "cn",
+    "cn-city",
+    "china-city",
+    "chinese-city",
+    "chinese-cities",
+    "中国国家行政区划数据"
+  ],
+  "author": "dai-siki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dai-siki/china-city-data/issues"
+  },
+  "homepage": "https://github.com/dai-siki/china-city-data#readme",
+}
