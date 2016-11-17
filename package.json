@@ -1,6 +1,6 @@
 {
   "name": "china-city-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "中国城市数据（首字母排序，json格式）",
   "main": "china-city-data.json",
   "scripts": {
